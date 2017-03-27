@@ -1,3 +1,6 @@
+
+# pip install beautifulsoup4 (https://www.crummy.com/software/BeautifulSoup/bs4/doc)
+
 import urllib.request
 from bs4 import BeautifulSoup
 
