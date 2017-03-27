@@ -1,10 +1,10 @@
 
 # A multi-threaded script to download all book summaries from https://paulminors.com/resources/book-summaries
 # dependencies: 
-    # pip install beautifulsoup4
+#   pip install beautifulsoup4
 # docs:    
-    # https://www.crummy.com/software/BeautifulSoup/bs4/doc
-    # https://docs.python.org/3/library/queue.html
+#   https://www.crummy.com/software/BeautifulSoup/bs4/doc
+#   https://docs.python.org/3/library/queue.html
 
 import urllib.request
 from bs4 import BeautifulSoup
