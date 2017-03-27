@@ -1,4 +1,5 @@
-# https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+# pip install beautifulsoup4 
+# https://www.crummy.com/software/BeautifulSoup/bs4/doc
 # https://docs.python.org/3/library/queue.html
 
 import urllib.request
