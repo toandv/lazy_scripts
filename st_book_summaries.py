@@ -1,5 +1,5 @@
-
 # pip install beautifulsoup4 (https://www.crummy.com/software/BeautifulSoup/bs4/doc)
+# A single-threaded script to download all book summaries from https://paulminors.com/resources/book-summaries
 
 import urllib.request
 from bs4 import BeautifulSoup
